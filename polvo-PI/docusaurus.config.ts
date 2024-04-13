@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Polvo PI',
+  title: 'Polvo π',
   tagline: 'Contando e aprendendo com você! 🦑',
   favicon: 'img/favicon.ico',
 
