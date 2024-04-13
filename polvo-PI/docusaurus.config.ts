@@ -85,16 +85,16 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Documentações',
               to: '/docs/intro',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Nossa Comunidade',
           items: [
             {
-              label: 'Stack Overflow',
+              label: 'Envie sua sugestão',
               href: 'https://stackoverflow.com/questions/tagged/docusaurus',
             },
             {
@@ -102,13 +102,13 @@ const config: Config = {
               href: 'https://discordapp.com/invite/docusaurus',
             },
             {
-              label: 'Twitter',
+              label: 'Telegram',
               href: 'https://twitter.com/docusaurus',
             },
           ],
         },
         {
-          title: 'More',
+          title: 'Saiba mais sobre o projeto',
           items: [
             {
               label: 'Sobre',
