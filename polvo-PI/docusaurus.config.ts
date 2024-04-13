@@ -60,7 +60,7 @@ const config: Config = {
     navbar: {
       title: 'Polvo π',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Polvo π  Logo',
         src: 'img/logo.svg',
       },
       items: [
