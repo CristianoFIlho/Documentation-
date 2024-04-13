@@ -61,7 +61,7 @@ const config: Config = {
       title: 'Polvo π',
       logo: {
         alt: 'Polvo π  Logo',
-        src: 'img/logo.svg',
+        src: 'img/Octopus.svg',
       },
       items: [
         {
