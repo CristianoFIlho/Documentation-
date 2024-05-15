@@ -70,7 +70,7 @@ const config: Config = {
           position: 'left',
           label: 'Documentações',
         },
-        {to: '/sobre', label: 'Sobre', position: 'left'},
+        
         {
           href: 'https://github.com/CristianoFIlho/Polvo-PI',
           label: 'GitHub',

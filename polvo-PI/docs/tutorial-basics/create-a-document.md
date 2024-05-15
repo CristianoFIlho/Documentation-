@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Create a Document
+# Configuração do seu ambiente de desenvolvimento 👩‍💻
 
 Documents are **groups of pages** connected through:
 
