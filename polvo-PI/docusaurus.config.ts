@@ -110,10 +110,7 @@ const config: Config = {
         {
           title: 'Saiba mais sobre o projeto',
           items: [
-            {
-              label: 'Sobre',
-              to: '/sobre',
-            },
+
             {
               label: 'GitHub',
               href: 'https://github.com/CristianoFIlho/Polvo-PI',
