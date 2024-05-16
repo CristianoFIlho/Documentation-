@@ -126,5 +126,9 @@ const config: Config = {
     },
   } satisfies Preset.ThemeConfig,
 };
+module.exports = {
+  // other configurations...
+  onBrokenLinks: 'ignore', // or 'warn'
+};
 
 export default config;
